@@ -1,0 +1,6 @@
+*.txt
+!/tests/*.txt
+!/builds/*.html
+/builds/*.js
+#*.js
+/index.html
